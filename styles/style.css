@@ -1,0 +1,19 @@
+* {
+  /*outline: 1px solid red;*/
+
+}
+.container .red {
+  color: red;
+}
+.container .header {
+  text-align: center;
+}
+.container .header input {
+  margin-top: 40px;
+}
+.container .body {
+  text-align: center;
+}
+.container .footer {
+  margin-top: 10px;
+}
